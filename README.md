@@ -58,7 +58,7 @@ Simulação de envio/recebimento de mensagens com classes e métodos.
 
 Java 17
 
-Visual Studio Code / IntelliJ IDEA
+Visual Studio Code 
 
 Git e GitHub
 
@@ -71,5 +71,4 @@ Registrar minha evolução no aprendizado de Java, com projetos simples e comple
 📬 Contato
 
 📧 lucas.7sntos@gmail.com
-🔗 LinkedIn:https://www.linkedin.com/in/lucas-augusto-ferreira-santos-71134a388/
-
+🔗 [LinkedIn — Lucas Santos](https://www.linkedin.com/in/lucas-augusto-ferreira-santos-71134a388/)
